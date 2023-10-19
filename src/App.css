@@ -1,0 +1,23 @@
+.container {
+  height: 100px;
+  width: 450px;
+  margin: 200px;
+  margin-left: 550px;
+}
+
+.heading{
+  text-align: center;
+}
+
+textarea {
+  width: 400px;
+  height: 100px;
+  padding: 10px;
+  border-radius: 10px;
+  border: 2px solid black;
+}
+
+.word-count {
+  color: black;
+  font-weight: bold;
+}
